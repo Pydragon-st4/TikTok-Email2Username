@@ -21,4 +21,4 @@ Useful for automation, email analysis, and data extraction tasks.
 
 ## Contact
 Telegram: @h_f_s  
-Channel: https://apis_st4
+Channel: https://t.me/apis_st4
